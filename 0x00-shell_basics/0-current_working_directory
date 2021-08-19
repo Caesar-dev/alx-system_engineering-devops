@@ -1,2 +1,3 @@
-root@linux:/home/alx-system_engineering-devops/0x00-shell_basics# 
-
+#!bin/bash
+#Purpose:Tell in what directory 0x00-shell_basics is stored in
+#Warning:Not tested for portability
