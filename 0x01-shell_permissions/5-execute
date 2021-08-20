@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod 2450  hello
+-rwxr--r--  hello
