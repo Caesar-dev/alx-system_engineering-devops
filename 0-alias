@@ -1,2 +1,2 @@
 #!/bin/bash
-alias
+test_alias.sh
