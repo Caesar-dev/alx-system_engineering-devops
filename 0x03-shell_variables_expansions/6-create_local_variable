@@ -1,2 +1,2 @@
 #!/bin/bash
-name="BETTY" echo$Holberton
+name="BETTY"= echo$Holberton
