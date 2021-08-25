@@ -1,2 +1,2 @@
-#!/bin/bash
-ls -1q  | wc -l
+#!/bin/ba0sh
+echo ls -1q  | wc -l
