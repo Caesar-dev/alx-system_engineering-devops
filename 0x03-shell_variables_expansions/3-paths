@@ -1,2 +1,2 @@
-#!/bin/ba0sh
+#!/bin/bash
 echo ls -1q  | wc -l
