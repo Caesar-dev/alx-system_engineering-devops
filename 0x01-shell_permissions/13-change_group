@@ -1,2 +1,3 @@
 #!/bin/bash
-chgrp hello
+chgrp holberton hello
+
