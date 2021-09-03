@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod 7675 hello olleh hello
+chmod --reference=olleh hello
